@@ -1,2 +1,2 @@
 # basic-sample-network
-basic sample network BNA file
+basic sample network BNA file for testing 
